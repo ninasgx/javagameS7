@@ -1,4 +1,5 @@
 # Nina's farm - Game developed for the Java class, Semester 7, 2024
+Student: GONÇALVES Sabrina
 
 Nina's Farm is a simple 2D game where you control one character while trying to escape from another. If both characters collide, it's game over!
 

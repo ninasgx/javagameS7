@@ -5,7 +5,7 @@ Nina's Farm is a simple 2D game where you control two characters, one trying to 
 
 # Description
 
-Single-Level Gameplay: This is an initial, single-level experience designed to be straightforward and fun.
+Single-Level Gameplay: This is an initial, single-level experience.
 
 _Two Characters:_
 A white character (the "runner") who tries to evade the chaser.
